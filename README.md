@@ -6,4 +6,4 @@ run in jupyter
 
 add folder called 'faces' to run face-cap.ipynb
 
-need folder of facesqq with validation and train inside it, to run webcam_recognizer
+need folder of facesqq with validation folder and train folder inside it, to run webcam_recognizer
