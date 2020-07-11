@@ -5,6 +5,19 @@ VGG-16 architecture
 used dlib for face recognization
 run in jupyter
 
-add folder called 'faces' to run face-cap.ipynb
+1.face-cap.ipynb:
+-used to capture 1000 or as per required number and store in faces.
+-add folder called 'faces' to run face-cap.ipynb.
 
-need folder of facesqq with validation folder and train folder inside it, to run webcam_recognizer
+2.model_training.ipynb
+-need folder of facesqq with validation folder and train folder inside it, to run model_training.ipynb.
+-train the photo capture from face-cap or own dataset.
+-save data in .md5
+
+3.webcam_recognizer.ipynb:
+-use to recognize the face train from model_training.
+-load the data from .md5
+
+4.index_gui.py:
+-basic gui using tkinter
+-it requires .py files not .ipynb
