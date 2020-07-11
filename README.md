@@ -2,6 +2,7 @@
 Project of 7th sem
 this is our mid defence code
 VGG-16 architecture
+used dlib for face recognization
 run in jupyter
 
 add folder called 'faces' to run face-cap.ipynb
