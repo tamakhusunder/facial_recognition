@@ -1,4 +1,17 @@
 # facial_recognition
+This system is capable of recognizing the person as per the training the model 
+        .ie. recognize the online video as well as offline video and picture.
+This system is capable of capturing the person face as per required number,and save the picture in 220*220.
+
+
+
+
+
+#After update:
+Just run index_gui.py
+index_gui is Gui that connect all other required part of feautres 
+
+#Before update:
 Project of 7th sem
 this is our mid defence code
 VGG-16 architecture
