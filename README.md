@@ -7,9 +7,9 @@
 -This system is capable of capturing the person face as per required number,and save the picture in 220"*"220"*"3 size.
 
 ## Getting Start:
-Just run index_gui.py.
-index_gui is Gui that connect all other required part of feautres.
-Add face folder if required in the project.
+-Just run index_gui.py.
+-index_gui is Gui that connect all other required part of feautres.
+-Add faces folder if required in the project.
 
 
 ![Banner](https://github.com/tamakhusunder/Images/blob/master/magicball/face_recognization.jpg)
