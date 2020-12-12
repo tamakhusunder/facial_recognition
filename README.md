@@ -1,7 +1,7 @@
-# facial_recognition
-This system is capable of recognizing the person as per the training the model 
-        .ie. recognize the online video as well as offline video and picture.
-This system is capable of capturing the person face as per required number,and save the picture in 220*220.
+## facial_recognition
+#This system is capable of recognizing the person as per the training the model 
+#        .ie. recognize the online video as well as offline video and picture.
+#This system is capable of capturing the person face as per required number,and save the picture in 220*220.
 
 
 
